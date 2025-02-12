@@ -1,6 +1,4 @@
-# .net_Q3_Technology
-# .net Assignment_1
- int x = 10;
+﻿// int x = 10;
 // if (x = 5)
 // Console.WriteLine("True");
 // else
