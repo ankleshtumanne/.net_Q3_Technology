@@ -1,0 +1,11 @@
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\Assignment_3.net\bin\Debug\Assignment_3.net.exe.config
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\Assignment_3.net\bin\Debug\Assignment_3.net.exe
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\Assignment_3.net\bin\Debug\Assignment_3.net.pdb
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\Assignment_3.net\obj\Debug\Assignment_3.net.csproj.AssemblyReference.cache
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\Assignment_3.net\obj\Debug\Assignment_3.net.csproj.CoreCompileInputs.cache
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\Assignment_3.net\obj\Debug\Assignment_3.net.exe
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\Assignment_3.net\obj\Debug\Assignment_3.net.pdb
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\.NET Assignment 2\Assignment_3.net\obj\Debug\Assignment_3.net.csproj.AssemblyReference.cache
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\.NET Assignment 2\Assignment_3.net\obj\Debug\Assignment_3.net.csproj.CoreCompileInputs.cache
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\.NET Assignment 2\Assignment_3.net\obj\Debug\Assignment_3.net.exe
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\.NET Assignment 2\Assignment_3.net\obj\Debug\Assignment_3.net.pdb

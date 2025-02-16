@@ -1,0 +1,7 @@
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\Problem4.net\bin\Debug\Problem4.net.exe.config
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\Problem4.net\bin\Debug\Problem4.net.exe
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\Problem4.net\bin\Debug\Problem4.net.pdb
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\Problem4.net\obj\Debug\Problem4.net.csproj.AssemblyReference.cache
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\Problem4.net\obj\Debug\Problem4.net.csproj.CoreCompileInputs.cache
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\Problem4.net\obj\Debug\Problem4.net.exe
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\Problem4.net\obj\Debug\Problem4.net.pdb

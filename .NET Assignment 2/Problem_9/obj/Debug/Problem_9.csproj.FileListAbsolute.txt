@@ -1,0 +1,7 @@
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\Problem_9\bin\Debug\Problem_9.exe.config
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\Problem_9\bin\Debug\Problem_9.exe
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\Problem_9\bin\Debug\Problem_9.pdb
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\Problem_9\obj\Debug\Problem_9.csproj.AssemblyReference.cache
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\Problem_9\obj\Debug\Problem_9.csproj.CoreCompileInputs.cache
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\Problem_9\obj\Debug\Problem_9.exe
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\Problem_9\obj\Debug\Problem_9.pdb

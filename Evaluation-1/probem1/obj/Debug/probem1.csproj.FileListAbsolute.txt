@@ -1,0 +1,7 @@
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\Evaluation-1\probem1\bin\Debug\probem1.exe.config
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\Evaluation-1\probem1\bin\Debug\probem1.exe
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\Evaluation-1\probem1\bin\Debug\probem1.pdb
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\Evaluation-1\probem1\obj\Debug\probem1.csproj.AssemblyReference.cache
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\Evaluation-1\probem1\obj\Debug\probem1.csproj.CoreCompileInputs.cache
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\Evaluation-1\probem1\obj\Debug\probem1.exe
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\Evaluation-1\probem1\obj\Debug\probem1.pdb
