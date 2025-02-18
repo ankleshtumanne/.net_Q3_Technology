@@ -1,0 +1,7 @@
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\.NET Assignment 3\Problem_10\bin\Debug\Problem_10.exe.config
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\.NET Assignment 3\Problem_10\bin\Debug\Problem_10.exe
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\.NET Assignment 3\Problem_10\bin\Debug\Problem_10.pdb
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\.NET Assignment 3\Problem_10\obj\Debug\Problem_10.csproj.AssemblyReference.cache
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\.NET Assignment 3\Problem_10\obj\Debug\Problem_10.csproj.CoreCompileInputs.cache
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\.NET Assignment 3\Problem_10\obj\Debug\Problem_10.exe
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\.NET Assignment 3\Problem_10\obj\Debug\Problem_10.pdb
