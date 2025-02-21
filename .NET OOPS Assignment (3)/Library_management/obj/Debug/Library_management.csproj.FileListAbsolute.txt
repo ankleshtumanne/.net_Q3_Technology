@@ -1,0 +1,7 @@
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\.NET OOPS Assignment (3)\Library_management\bin\Debug\Library_management.exe.config
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\.NET OOPS Assignment (3)\Library_management\bin\Debug\Library_management.exe
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\.NET OOPS Assignment (3)\Library_management\bin\Debug\Library_management.pdb
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\.NET OOPS Assignment (3)\Library_management\obj\Debug\Library_management.csproj.AssemblyReference.cache
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\.NET OOPS Assignment (3)\Library_management\obj\Debug\Library_management.csproj.CoreCompileInputs.cache
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\.NET OOPS Assignment (3)\Library_management\obj\Debug\Library_management.exe
+C:\Users\Laptops Garage\Desktop\.net_Q3_Technology\.NET OOPS Assignment (3)\Library_management\obj\Debug\Library_management.pdb
